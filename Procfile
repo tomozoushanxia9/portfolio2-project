@@ -1,1 +1,1 @@
-web: gunicorn ortfolio2-project.wsgi --log-file -
+web: gunicorn portfolio2-project.wsgi --log-file -

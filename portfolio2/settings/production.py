@@ -4,7 +4,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['.portfolio2-project.herokuapp.com']
+ALLOWED_HOSTS = ['portfolio2-project.herokuapp.com']
 
 
 import dj_database_url
